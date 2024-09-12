@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{F5A38F7B-E05A-465A-A46C-704038E34A31}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PullSDK_core", "..\..\..\work\ZKTeco_PULLSDK_Wrapper\PullSDK_core\PullSDK_core.csproj", "{02BB3215-A008-458C-A36E-851D23316C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		aza|Any CPU = aza|Any CPU
+		aza|x64 = aza|x64
+		aza|x86 = aza|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.aza|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.aza|Any CPU.Build.0 = Release|Any CPU
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.aza|x64.ActiveCfg = Debug|x64
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.aza|x64.Build.0 = Debug|x64
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.aza|x86.ActiveCfg = Release|Any CPU
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.aza|x86.Build.0 = Release|Any CPU
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.Debug|x64.Build.0 = Debug|Any CPU
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.Debug|x86.Build.0 = Debug|Any CPU
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.Release|x64.ActiveCfg = Release|x64
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.Release|x64.Build.0 = Release|x64
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.Release|x86.ActiveCfg = Release|Any CPU
+		{F5A38F7B-E05A-465A-A46C-704038E34A31}.Release|x86.Build.0 = Release|Any CPU
+		{02BB3215-A008-458C-A36E-851D23316C86}.aza|Any CPU.ActiveCfg = Debug|x64
+		{02BB3215-A008-458C-A36E-851D23316C86}.aza|Any CPU.Build.0 = Debug|x64
+		{02BB3215-A008-458C-A36E-851D23316C86}.aza|x64.ActiveCfg = aza|x64
+		{02BB3215-A008-458C-A36E-851D23316C86}.aza|x64.Build.0 = aza|x64
+		{02BB3215-A008-458C-A36E-851D23316C86}.aza|x86.ActiveCfg = aza|x64
+		{02BB3215-A008-458C-A36E-851D23316C86}.aza|x86.Build.0 = aza|x64
+		{02BB3215-A008-458C-A36E-851D23316C86}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{02BB3215-A008-458C-A36E-851D23316C86}.Debug|x64.ActiveCfg = Debug|x64
+		{02BB3215-A008-458C-A36E-851D23316C86}.Debug|x86.ActiveCfg = Debug|x64
+		{02BB3215-A008-458C-A36E-851D23316C86}.Release|Any CPU.ActiveCfg = Release|x64
+		{02BB3215-A008-458C-A36E-851D23316C86}.Release|x64.ActiveCfg = Release|x64
+		{02BB3215-A008-458C-A36E-851D23316C86}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FA8B306-2E1E-4A30-8472-0946BF202C16}
+	EndGlobalSection
+EndGlobal

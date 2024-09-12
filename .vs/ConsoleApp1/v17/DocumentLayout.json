@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A38F7B-E05A-465A-A46C-704038E34A31}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\lenovo\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A38F7B-E05A-465A-A46C-704038E34A31}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BB3215-A008-458C-A36E-851D23316C86}|..\\..\\..\\work\\ZKTeco_PULLSDK_Wrapper\\PullSDK_core\\PullSDK_core.csproj|c:\\users\\lenovo\\work\\zkteco_pullsdk_wrapper\\pullsdk_core\\pullsdk_core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A38F7B-E05A-465A-A46C-704038E34A31}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\lenovo\\source\\repos\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5A38F7B-E05A-465A-A46C-704038E34A31}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BB3215-A008-458C-A36E-851D23316C86}|..\\..\\..\\work\\ZKTeco_PULLSDK_Wrapper\\PullSDK_core\\PullSDK_core.csproj|c:\\users\\lenovo\\work\\zkteco_pullsdk_wrapper\\pullsdk_core\\pullsdk_core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PullSDK_core",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\work\\ZKTeco_PULLSDK_Wrapper\\PullSDK_core\\PullSDK_core.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\work\\ZKTeco_PULLSDK_Wrapper\\PullSDK_core\\PullSDK_core.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\work\\ZKTeco_PULLSDK_Wrapper\\PullSDK_core\\PullSDK_core.csproj",
+              "RelativeToolTip": "..\\..\\..\\work\\ZKTeco_PULLSDK_Wrapper\\PullSDK_core\\PullSDK_core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T02:05:52.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PullSDK_core",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\work\\ZKTeco_PULLSDK_Wrapper\\PullSDK_core\\PullSDK_core.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\work\\ZKTeco_PULLSDK_Wrapper\\PullSDK_core\\PullSDK_core.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\work\\ZKTeco_PULLSDK_Wrapper\\PullSDK_core\\PullSDK_core.csproj",
+              "RelativeToolTip": "..\\..\\..\\work\\ZKTeco_PULLSDK_Wrapper\\PullSDK_core\\PullSDK_core.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T01:59:16.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:27:02.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T12:30:27.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
